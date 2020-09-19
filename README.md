@@ -1,4 +1,6 @@
 # Productivity_App 
+<br>
+ <img src="images/3.png" width="100%"/>
 
 ***Aim*** : The ultimate aim of this project is to understand the basics of Flutter and learning how to build an Rest API using Flask.
 
