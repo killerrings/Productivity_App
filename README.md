@@ -47,5 +47,8 @@ cd App/todoapp
 flutter run
 ```
 
+<br>
+ <img src="images/Mind Map.png" width="100%"/>
+
 For further information you can visit this Notion link<br>
 https://www.notion.so/Productivity-app-from-Scratch-Flutter-and-Python-c4038c29eebc4c118b4b39e21cd681de
