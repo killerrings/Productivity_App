@@ -40,7 +40,7 @@ Clone this repository to your local repo
 git clone https://github.com/killerrings/Productivity_App.git
 ```
 
-In android studio run the following commands
+In android studio terminal open this project and run the following commands
 
 ```
 cd App/todoapp
